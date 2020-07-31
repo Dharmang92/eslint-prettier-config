@@ -1,5 +1,7 @@
-npm init -y
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+# ESlint - Prettier - Config (Airbnb)
+
+npm init -y <br>
+npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node <br>
 npx install-peerdeps --dev eslint-config-airbnb
 
 ```json
